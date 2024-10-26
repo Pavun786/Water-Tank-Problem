@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+
+
+table{
+    border-collapse:collapse;
+   
+}
+
+
+tr,td{
+    border: 1px solid black;
+    padding: 10px 30px;
+   
+}
+
+#wall{
+    background-color: brown;
+
+}
+
+#water{
+    background-color: aquamarine;
+}
+
+#submit-btn{
+    background-color: midnightblue;
+    color: whitesmoke;
+    border: none;
+    padding: 5px;
+}
+
+label{
+    font-size:20px;
+    font-weight: 550;
+}
